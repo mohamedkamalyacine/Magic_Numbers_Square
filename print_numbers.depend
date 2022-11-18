@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1668802356 source:d:\iti_data\c_programming\print_numbers\main.c
+	<stdio.h>
+	<stdlib.h>
+
